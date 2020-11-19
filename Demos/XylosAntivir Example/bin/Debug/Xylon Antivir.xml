@@ -1,0 +1,116 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+XylonAntivir
+</name>
+</assembly>
+<members>
+<member name="P:Xylon_Antivir.TinyNet.TinyConsoleLocation">
+	<summary>
+ Gets or sets the mkvmerge.exe file location.
+ </summary>
+	<value>The MKVmerge.exe file location.</value>
+</member><member name="P:Xylon_Antivir.TinyNet.Version">
+	<summary>
+ Gets the MKVMerge.exe version.
+ </summary>
+	<value>The MKVMerge.exe version.</value>
+</member><member name="M:Xylon_Antivir.TinyNet.IsAvaliable">
+	<summary>
+ Determines whether mkvmerge.exe file exist.
+ </summary>
+	<returns><c>true</c> if mkvmerge.exe file exist; otherwise, <c>false</c>.</returns>
+</member><member name="M:Xylon_Antivir.TinyNet.GetVersion">
+	<summary>
+ Gets the MKVMerge.exe file version.
+ </summary>
+	<returns>The MKVMerge.exe file version.</returns>
+</member><member name="F:Xylon_Antivir.Engine.ConsoleParser.MyProcess">
+	<summary>
+ The Process Object.
+ </summary>
+</member><member name="F:Xylon_Antivir.Engine.ConsoleParser.Find">
+	<summary>
+ Indicates the string to search.
+ </summary>
+</member><member name="F:Xylon_Antivir.Engine.ConsoleParser.ResultFound">
+	<summary>
+ Determines whether a result is found.
+ </summary>
+</member><member name="M:Xylon_Antivir.Engine.ConsoleParser.RunCommand(System.String,System.String,System.String)">
+	<summary>
+ Runs a command on the CMD.
+ </summary>
+	<param name="Command">Indicates the Command to run.</param>
+	<param name="Find">Indicates a string to find in the Output.</param>
+	<returns><c>true</c> if the specified string is found, <c>false</c> otherwise.</returns>
+</member><member name="M:Xylon_Antivir.Engine.ConsoleParser.RunCommand_OutputDataReceived(System.Object,System.Diagnostics.DataReceivedEventArgs)">
+	<summary>
+ Handles the 'OutputDataReceived' of the 'RunCommand' method.
+ </summary>
+	<param name="sender">The source of the event.</param>
+	<param name="e">The <see cref="T:System.Diagnostics.DataReceivedEventArgs"/> instance containing the event data.</param>
+</member><member name="M:Xylon_Antivir.Engine.ConsoleParser.RunCommand_ErrorDataReceived(System.Object,System.Diagnostics.DataReceivedEventArgs)">
+	<summary>
+ Handles the 'ErrorDataReceived' of the 'RunCommand' method.
+ </summary>
+	<param name="sender">The source of the event.</param>
+	<param name="e">The <see cref="T:System.Diagnostics.DataReceivedEventArgs"/> instance containing the event data.</param>
+</member><member name="M:Xylon_Antivir.Net.BinaryCheck.GetFileVersion(System.String,System.Text.StringBuilder,System.Int32,System.Int32@)">
+	<summary>
+ Gets the common language runtime (CLR) version information of the specified file, using the specified buffer.
+ </summary>
+	<param name="filepath">Indicates the filepath of the file to be examined.</param>
+	<param name="buffer">Indicates the buffer allocated for the version information that is returned.</param>
+	<param name="buflen">Indicates the size, in wide characters, of the buffer.</param>
+	<param name="written">Indicates the size, in bytes, of the returned buffer.</param>
+	<returns>System.Int32.</returns>
+</member><member name="M:Xylon_Antivir.Net.BinaryCheck.IsNetAssembly(System.String)">
+	<summary>
+ Determines whether an exe/dll file is an .Net assembly.
+ </summary>
+	<param name="File">Indicates the exe/dll file to check.</param>
+	<returns><c>true</c> if file is an .Net assembly; otherwise, <c>false</c>.</returns>
+</member><member name="P:Xylon_Antivir.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Xylon_Antivir.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:Xylon_Antivir.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="F:Xylon_Antivir.Net.SuspiciusClases.Database.MaliciousClasesDB">
+ ----------------------------------------------------------------------------------------------------
+ <summary>
+ A sourcecode template of a WindowsForms application written in Visual Basic.Net.
+ </summary>
+ ----------------------------------------------------------------------------------------------------
+
+</member><member name="F:Xylon_Antivir.Net.SuspiciusImports.Database.MaliciousImportsDB">
+ ----------------------------------------------------------------------------------------------------
+ <summary>
+ A sourcecode template of a WindowsForms application written in Visual Basic.Net.
+ </summary>
+ ----------------------------------------------------------------------------------------------------
+
+</member><member name="M:Xylon_Antivir.Lxib.Antivir.ProcessVirScan(System.String)">
+	<summary>
+ Determines whether an exe/dll file is an .Net assembly.
+ </summary>
+	<param name="ProcName">Indicates the Process to scan</param>
+	<returns><c>List(Of String).count &gt;= 1</c> Is that a malicious file was found; otherwise, <c>List(Of String).count = 0 or Nothings</c>.</returns>
+</member><member name="M:Xylon_Antivir.Lxib.Antivir.FileScan(System.String,System.Boolean)">
+	<summary>
+ Determines whether an exe/dll file is an .Net assembly.
+ </summary>
+	<param name="FilePath">Indicates the file directory</param>
+	<returns>If it is malicious it returns a string.; otherwise, <c>false</c>.</returns>
+</member>
+</members>
+</doc>
