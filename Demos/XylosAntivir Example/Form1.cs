@@ -38,7 +38,7 @@ namespace XylosAntivir_Example
                     string FilePath = file;
                     string FileName = Path.GetFileName(file);
 
-                    string ScanResult = Engine.FileScan(FilePath, true, false, true);
+                    string ScanResult = Engine.FileScan(FilePath, true, false, false);
 
                     if (ScanResult != "False")
                     {
