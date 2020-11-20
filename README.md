@@ -9,7 +9,7 @@
 
 
 ## Introduction
-Antivirus API to detect malware for .NET | Download : [Xylon Antivir API 1.0.0](https://www.paypal.me/SalvadorKrilewski)
+Antivirus API to detect malware for .NET | Download : [Xylon Antivir API 1.0.0](https://github.com/DestroyerDarkNess/XylonAntivir/releases/download/1.0/Xylon.Antivir.API.zip)
 
 Remember to leave your Star to the Project! Thank you!
 
