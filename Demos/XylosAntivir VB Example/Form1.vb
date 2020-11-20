@@ -19,7 +19,7 @@ Public Class Form1
             For Each file As String In files
                 Dim FilePath As String = file
                 Dim FileName As String = Path.GetFileName(file)
-                Dim ScanResult As String = Engine.FileScan(FilePath, True, False, True)
+                Dim ScanResult As String = Engine.FileScan(FilePath, True, False, False)
 
                 If ScanResult <> "False" Then
                     Dim VirusInfo As String() = ScanResult.Split("|".ToCharArray())
