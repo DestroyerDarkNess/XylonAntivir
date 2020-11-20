@@ -3,7 +3,7 @@
 ![passing](https://img.shields.io/badge/build-passing-brightgreen) ![Licence](https://img.shields.io/badge/license-GPL%20(%3E%3D%202)-blue) 
 
 
-<img align="left" width="250" height="250" src="https://i.ibb.co/B3pMppn/Pngtree-antivirus-icon-4351716-burned.png">
+<img align="left" width="180" height="200" src="https://i.ibb.co/B3pMppn/Pngtree-antivirus-icon-4351716-burned.png">
 
 
 
@@ -14,12 +14,8 @@ Antivirus API to detect malware for .NET | Download : [Xylon Antivir API 1.0.0](
 Remember to leave your Star to the Project! Thank you!
 
 If you like my work and want to support it, then please consider to deposit a donation through Paypal by clicking on the next link: [www.paypal.me/SalvadorKrilewski](https://www.paypal.me/SalvadorKrilewski)
-
 ![]()
 
-![]() 
-
-![]() 
 
 ## Features
 
@@ -44,6 +40,5 @@ If you like my work and want to support it, then please consider to deposit a do
 
 ## Preview :
 
-![Preview1]( )
+![Preview1](https://i.ibb.co/2yJ1xJn/Preview-Xylon.png)
 
-![Preview2]( )
