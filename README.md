@@ -7,7 +7,7 @@
 	<img src="https://i.ibb.co/0YVSNt0/R.png" alt="Warnig" width="50" height="50">	Discontinued
 	<br>
 </h2>
-<h3 align="center">This Is Archived. NNew Version HERE : https://github.com/DestroyerDarkNess/XylonV2 </h3> <BR>
+<h3 align="center">This Is Archived. New Version HERE : https://github.com/DestroyerDarkNess/XylonV2 </h3> <BR>
 
 ## Introduction
 Antivirus API to detect malware for .NET | Download : [Xylon Antivir API 1.0.0](https://github.com/DestroyerDarkNess/XylonAntivir/releases/download/1.0/Xylon.Antivir.API.zip) **Do not use, This version is old.**
