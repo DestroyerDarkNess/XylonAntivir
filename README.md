@@ -1,15 +1,16 @@
-# XylonAntivir
-
-![passing](https://img.shields.io/badge/build-passing-brightgreen) ![Licence](https://img.shields.io/badge/license-GPL%20(%3E%3D%202)-blue) 
-
-
-<img align="left" width="180" height="200" src="https://i.ibb.co/B3pMppn/Pngtree-antivirus-icon-4351716-burned.png">
-
-
-
+<h1 align="center">
+	<br>
+	<img src="https://i.ibb.co/B3pMppn/Pngtree-antivirus-icon-4351716-burned.png" alt="Logo" width="50" height="50">
+	XylonAntivir
+</h1>
+<h2 align="center">
+	<img src="https://i.ibb.co/0YVSNt0/R.png" alt="Warnig" width="50" height="50">	Discontinued
+	<br>
+</h2>
+<h3 align="center">This Is Archived. NNew Version HERE : https://github.com/DestroyerDarkNess/XylonV2 </h3> <BR>
 
 ## Introduction
-Antivirus API to detect malware for .NET | Download : [Xylon Antivir API 1.0.0](https://github.com/DestroyerDarkNess/XylonAntivir/releases/download/1.0/Xylon.Antivir.API.zip)
+Antivirus API to detect malware for .NET | Download : [Xylon Antivir API 1.0.0](https://github.com/DestroyerDarkNess/XylonAntivir/releases/download/1.0/Xylon.Antivir.API.zip) **Do not use, This version is old.**
 
 Remember to leave your Star to the Project! Thank you!
 
